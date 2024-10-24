@@ -38,10 +38,14 @@ pip install -r requirements.txt
 ### 4. Tutorials Overview
 Each tutorial is designed to cover a specific Python library commonly used in data science. You can find a detailed walkthrough of how to use these libraries for different tasks, including:
 
-Numpy Tutorial
+Numpy Tutorial https://github.com/Iqubal121/Data-Science-Tutorials/blob/18794f6cd576a56b6dff3827c0053610787bae36/Numpy_tutorial.ipynb
+
 Data preprocessing and  Exploratory data analysis (EDA) using pandas
+
 Data visualization
+
 Machine learning models
+
 Statistical analysis
 
 ### 5. Libraries Covered
