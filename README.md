@@ -31,7 +31,8 @@ git clone https://github.com/yourusername/data-science-tutorial-python-libraries
 cd data-science-tutorial-python-libraries
 
 #### Install the required libraries
-requirement.txt
+[requirement.txt](https://github.com/Iqubal121/Data-Science-Tutorials/blob/3a0d490112da3f7e8b5e7bd87ade955d09613576/requirement.txt)
+
 pip install -r requirements.txt
 
 ### 4. Tutorials Overview
