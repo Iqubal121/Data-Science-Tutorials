@@ -63,7 +63,7 @@ Push to the branch (git push origin feature/new-tutorial)
 Open a pull request
 
 ### 7. License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Iqubal121/Data-Science-Tutorials/blob/e459a2275ec8a3e703b31d9c629ec8e83bb142a7/LICIENCE) file for more details.
 
 
 
