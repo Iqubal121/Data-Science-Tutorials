@@ -25,7 +25,7 @@ A basic understanding of Python programming
 
 ### 3.  Installation
 #### Clone the repository
-git clone https://github.com/yourusername/data-science-tutorial-python-libraries.git
+git clone https://github.com/Iqubal121/Data-Science-Tutorials.git
 
 #### Navigate to the project directory
 cd data-science-tutorial-python-libraries
