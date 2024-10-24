@@ -51,12 +51,14 @@ Statistical analysis
 ### 5. Libraries Covered
 This repository covers the following Python libraries:
 
-[NumPy: Essential for numerical computing with arrays and matrices](https://github.com/Iqubal121/Data-Science-Tutorials/blob/79307618b1d50a288e29b0749ff95a7d878d5d6e/Numpy_tutorial.ipynb)
+[NumPy](https://github.com/Iqubal121/Data-Science-Tutorials/blob/79307618b1d50a288e29b0749ff95a7d878d5d6e/Numpy_tutorial.ipynb)
 
+[Pandas](https://github.com/Iqubal121/Data-Science-Tutorials/blob/b6932d78110ab21f6c3391c89a4e86bfb38fa11f/Pandas_Tutorial.ipynb)
 
-Pandas: A powerful data manipulation library for working with structured data.
 Matplotlib & Seaborn: Libraries for creating static, animated, and interactive visualizations.
+
 Scikit-learn: A comprehensive machine learning library.
+
 Statsmodels: Tools for estimating and testing statistical models.
 
 ### 6. Contributing
