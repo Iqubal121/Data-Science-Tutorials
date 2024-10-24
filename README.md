@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ### 4. Tutorials Overview
 Each tutorial is designed to cover a specific Python library commonly used in data science. You can find a detailed walkthrough of how to use these libraries for different tasks, including:
 
-Numpy Tutorial https://github.com/Iqubal121/Data-Science-Tutorials/blob/18794f6cd576a56b6dff3827c0053610787bae36/Numpy_tutorial.ipynb
+Numpy Tutorial 
 
 Data preprocessing and  Exploratory data analysis (EDA) using pandas
 
@@ -51,7 +51,9 @@ Statistical analysis
 ### 5. Libraries Covered
 This repository covers the following Python libraries:
 
-NumPy: Essential for numerical computing with arrays and matrices.
+[NumPy: Essential for numerical computing with arrays and matrices](https://github.com/Iqubal121/Data-Science-Tutorials/blob/79307618b1d50a288e29b0749ff95a7d878d5d6e/Numpy_tutorial.ipynb)
+
+
 Pandas: A powerful data manipulation library for working with structured data.
 Matplotlib & Seaborn: Libraries for creating static, animated, and interactive visualizations.
 Scikit-learn: A comprehensive machine learning library.
