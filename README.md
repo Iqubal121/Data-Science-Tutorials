@@ -1,6 +1,6 @@
 ## Data-Science-Tutorials
 
-Welcome to the Data Science Tutorial repository! This repository is a collection of tutorials that guide you through using essential Python libraries for data science. 
+Welcome to the Data Science Tutorial repository! This repository contains tutorials on using essential Python libraries for data science. 
 Whether you're a beginner or looking to deepen your skills, these tutorials will help you build a strong foundation in data analysis, visualization, machine learning, and more.
 
 ### Table of Contents
@@ -14,7 +14,7 @@ Whether you're a beginner or looking to deepen your skills, these tutorials will
 
 ### 1. Introduction
 This repository contains tutorials on various Python libraries used in data science, including tools for data manipulation, visualization, machine learning, and statistical analysis. 
-By following these tutorials, you'll learn how to efficiently analyze data, build predictive models, and visualize your results.
+By following these tutorials, you'll learn how to analyze data efficiently, build predictive models, and visualize your results.
 
 ### 2. Prerequisites
 Before starting, make sure you have the following installed:
@@ -31,6 +31,7 @@ git clone https://github.com/yourusername/data-science-tutorial-python-libraries
 cd data-science-tutorial-python-libraries
 
 #### Install the required libraries
+requirement.txt
 pip install -r requirements.txt
 
 ### 4. Tutorials Overview
